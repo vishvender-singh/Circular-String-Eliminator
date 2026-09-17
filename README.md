@@ -27,12 +27,12 @@ int main() {
     // Paste the logic here
     return 0;
 }
+```
 ## 💡 Example Output
 ```text
 enter a string : ABCD
 enter a 2nd string : XY
 last character : A
+```
 
 
-enter a string : ABCDenter a 2nd string : XY
-last chara
